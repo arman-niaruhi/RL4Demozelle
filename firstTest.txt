@@ -1,0 +1,110 @@
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.6803377157744316
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.7592981836439526
+Connected with result code 0
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.6803377157744316
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.8092981836439527
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.6303377157744315
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.8092981836439527
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.6803377157744316
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.8092981836439527
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.6803377157744316
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.7592981836439526
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.6803377157744316
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.8092981836439527
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.7303377157744316
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.8092981836439527
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.7803377157744317
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.8092981836439527
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.7803377157744317
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.7592981836439526
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.8303377157744317
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.7592981836439526
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.8303377157744317
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.8092981836439527
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.8303377157744317
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.85
+...
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.1
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.6420678500110159
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.6304670364169724
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+INFO:__main__:Episode: 0, Step: 0, Reward: 0.07320839308113043, Speed 1: 0.6304670364169724, Speed 2: 0.4291588298140392, Centricity: 0.2236053
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.5804670364169724
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 1, Step: 1, Reward: 0.06205706460740106, Speed 1: 0.5804670364169724, Speed 2: 0.4291588298140392, Centricity: 0.01867599
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.5304670364169723
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 2, Step: 2, Reward: 0.05182662263970847, Speed 1: 0.5304670364169723, Speed 2: 0.4291588298140392, Centricity: 0.04684646
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.48046703641697236
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 3, Step: 3, Reward: 0.042517067178052675, Speed 1: 0.48046703641697236, Speed 2: 0.4291588298140392, Centricity: 0.02074132
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.43046703641697237
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 4, Step: 4, Reward: 0.034128398222433645, Speed 1: 0.43046703641697237, Speed 2: 0.4291588298140392, Centricity: 0.02236363
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.3804670364169724
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 5, Step: 5, Reward: 0.026660615772851403, Speed 1: 0.3804670364169724, Speed 2: 0.4291588298140392, Centricity: 0.01188824
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.3304670364169724
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 6, Step: 6, Reward: 0.02011371982930593, Speed 1: 0.3304670364169724, Speed 2: 0.4291588298140392, Centricity: 0.01896998
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.2804670364169724
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 7, Step: 7, Reward: 0.014487710391797238, Speed 1: 0.2804670364169724, Speed 2: 0.4291588298140392, Centricity: 0.02057178
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.23046703641697242
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 8, Step: 8, Reward: 0.009782587460325322, Speed 1: 0.23046703641697242, Speed 2: 0.4291588298140392, Centricity: 0.01678206
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.18046703641697243
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 9, Step: 9, Reward: 0.005998351034890183, Speed 1: 0.18046703641697243, Speed 2: 0.4291588298140392, Centricity: 0.02015682
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.13046703641697244
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 10, Step: 10, Reward: 0.0031350011154918198, Speed 1: 0.13046703641697244, Speed 2: 0.4291588298140392, Centricity: 0.02498527
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.1
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 11, Step: 11, Reward: 0.001841773012073555, Speed 1: 0.1, Speed 2: 0.4291588298140392, Centricity: 0.03099488
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.1
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 12, Step: 12, Reward: 0.001841773012073555, Speed 1: 0.1, Speed 2: 0.4291588298140392, Centricity: 0.03468559
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.1
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 13, Step: 13, Reward: 0.001841773012073555, Speed 1: 0.1, Speed 2: 0.4291588298140392, Centricity: 0.03179186
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.1
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 14, Step: 14, Reward: 0.001841773012073555, Speed 1: 0.1, Speed 2: 0.4291588298140392, Centricity: 0.02068851
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.1
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 15, Step: 15, Reward: 0.001841773012073555, Speed 1: 0.1, Speed 2: 0.4291588298140392, Centricity: 0.0255743
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.1
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 16, Step: 16, Reward: 0.001841773012073555, Speed 1: 0.1, Speed 2: 0.4291588298140392, Centricity: 0.02978282
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.1
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 17, Step: 17, Reward: 0.001841773012073555, Speed 1: 0.1, Speed 2: 0.4291588298140392, Centricity: 0.01605687
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.1
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 18, Step: 18, Reward: 0.001841773012073555, Speed 1: 0.1, Speed 2: 0.4291588298140392, Centricity: 0.01624687
+Published values on topic Democell/Speed/Conveyor_Speed_1: 0.1
+Published values on topic Democell/Speed/Conveyor_Speed_2: 0.4291588298140392
+INFO:__main__:Episode: 19, Step: 19, Reward: 0.001841773012073555, Speed 1: 0.1, Speed 2: 0.4291588298140392, Centricity: 0.01661435
+Episode terminated. Exiting the program.
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
+Connected with result code 0
